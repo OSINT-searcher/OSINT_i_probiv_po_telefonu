@@ -51,5 +51,3 @@
 Вся информация публикуется «как есть» и служит для понимания рисков, связанных с приватностью телефонных данных.
 
 [Вернуться к каталогу OSINT-инструментов](https://github.com/OSINT-searcher/probiv_i_OSINT_instrumenti)
-
-[Открыть статью как отдельную страницу](https://osint-searcher.github.io/OSINT_i_probiv_po_telefonu/)
